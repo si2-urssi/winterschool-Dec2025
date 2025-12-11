@@ -42,11 +42,14 @@ Also, the URSSI Winter School is a scent-free environment. We would like to ask 
 
 ## Instructors
 
-[Kyle Niemeyer](https://github.com/kyleniemeyer)
+[Kyle Niemeyer](https://github.com/kyleniemeyer) is an Associate Professor of Mechanical Engineering in the School of Mechanical, Industrial, and Manufacturing Engineering.
+He leads a research group that uses computation to investigate problems involving reacting-fluid flows (particularly combustion and fire) and particle transport, and with a focus on
+how to efficiently use modern high-performance computing systems. He's also an Associate Editor-in-Chief of the [_Journal of Open Source Software_ (JOSS)](https://joss.theoj.org).
 
-[Madicken Munk](https://github.com/munkm)
+[Madicken Munk](https://github.com/munkm) is an Assistant Professor in the School of Nuclear Science and Engineering at Oregon State University. Previously, she was a postdoc at the University of Illinois' National Center for Supercomputing Applications where she was a maintainer and release manager of yt, a visualization package for simulation data.
 
-[Joanna Piper Morgan]([https://nicholdav.info](https://jpmorgan98.github.io/assets/docs/cv.pdf))
+[Joanna Piper Morgan](https://jpmorgan98.github.io) is a Postdoctoral Scholar in the Nuclear Criticality Safety Division at
+Lawrence Livermore National Laboratory. She received her PhD in Mechanical Engineering at Oregon State University, working on techniques for modeling time-dependent neutron transport using Monte Carlo methods, and specifically strategies for doing this on high-performance/heterogeneous computing systems enabled by Python.
 
 ## Requirements
 
