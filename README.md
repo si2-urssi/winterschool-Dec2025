@@ -11,7 +11,7 @@ TBD
 
 Welcome to the repository for the 2025 URSSI Winter School! All instruction will happen in the [Oregon State University Portland Center](https://portland.oregonstate.edu), room 2029.
 
-OSU Portland Center is located in the Meier & Frank Building, which is access controlled. Please show the guest pass at the entrance to the security guard (via the camera) to enter.
+OSU Portland Center is located in the Meier & Frank Building, which is access controlled. Please show the [guest pass](https://github.com/si2-urssi/winterschool-Dec2025/blob/main/OSU-guest-pass.png) at the entrance to the security guard (via the camera) to enter.
 
 ## Tentative schedule
 
