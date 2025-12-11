@@ -42,7 +42,7 @@ Also, the URSSI Winter School is a scent-free environment. We would like to ask 
 
 ## Instructors
 
-[Kyle Niemeyer](https://github.com/kyleniemeyer) is an Associate Professor of Mechanical Engineering in the School of Mechanical, Industrial, and Manufacturing Engineering.
+[Kyle Niemeyer](https://niemeyer-research-group.github.io) is an Associate Professor of Mechanical Engineering in the School of Mechanical, Industrial, and Manufacturing Engineering.
 He leads a research group that uses computation to investigate problems involving reacting-fluid flows (particularly combustion and fire) and particle transport, and with a focus on
 how to efficiently use modern high-performance computing systems. He's also an Associate Editor-in-Chief of the [_Journal of Open Source Software_ (JOSS)](https://joss.theoj.org).
 
