@@ -19,6 +19,9 @@ The Winter School will be held at the [OSU Portland Center](https://portland.ore
 This is located inside the Meier & Frank Building at 555 SW Morrison Street.
 The OSU Portland Center is about four blocks away from the hotel down SW 6th Ave, about 0.2 miles and a 5-6 minute walk.
 
+The building is access controlled, so please show the [guest pass](https://github.com/si2-urssi/winterschool-Dec2025/blob/main/OSU-guest-pass.png)
+to the security guard at the front entrance.
+
 Bring an umbrella or rainjacket, though, as it is rainy season in the Pacific Northwest!
 
 ## Special needs
