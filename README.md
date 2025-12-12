@@ -57,7 +57,7 @@ You will need a laptop with a Mac, Linux, or Windows operating system (not a tab
 
 - the Bash shell; you should only have to set this up if you are using a Windows machine, following the [Software Carpentry setup instructions](http://carpentries.github.io/workshop-template/#setup)
 - Git
-- Python 3.x; we recommend installing [Anaconda](https://www.anaconda.com/distribution/) for simplicity
+- Python 3.x; we recommend installing [miniforge](https://conda-forge.org/download/) for simplicity and install packages to environments as needed 
 - a text editor, preferably one designed for writing code; we recommend [VS Code](https://code.visualstudio.com) or [Sublime Text](https://www.sublimetext.com)
 
 You should also sign up for a [GitHub](https://github.com/) account if you don't already have one.
