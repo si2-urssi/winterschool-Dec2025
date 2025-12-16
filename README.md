@@ -82,7 +82,7 @@ We hope that most—or at least some—of the projects will eventually be submit
 
 ## Reimbursements
 
-Please follow the instructions you will receive over email and reach out to Kyle Niemeyer with a ny questions or concerns.
+Please follow the instructions you will receive over email and reach out to Kyle Niemeyer with any questions or concerns.
 
 ## Feedback 
 
